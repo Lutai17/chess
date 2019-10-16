@@ -1,0 +1,75 @@
+.background_image{
+    background-image: url(https://image.freepik.com/free-vector/_36244-122.jpg);
+    background-size: cover;
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+.img{
+    width: 52px;
+    height: 52px;
+    
+}
+.crown{
+    position:absolute;
+    height:40px;
+    width:auto;
+    top: 95%;
+    margin-top: -50px;
+    right:10%;
+}
+.even1{
+  margin-left: 55px;  
+}
+.even2{
+     margin-left: 56px; 
+}
+.odd1{
+    margin-left: 2px;  
+}
+.odd2{
+   margin-left: 54px;   
+}
+.odd3{
+    margin-left: 53px;  
+}
+.white_1{
+    position: absolute;
+    top: 30px;
+    left: 30px;    
+}
+.white_2{ 
+    position: absolute;
+    top: 85px;
+    left: 30px;
+}
+.white_3{
+    position: absolute;
+    top: 142px;
+    left: 30px;
+}
+.white_4{
+    position: absolute;
+    top: 197px;
+    left: 252px;
+}
+.black_1{ 
+    position: absolute;
+    top: 418px;
+    left: 30px;
+}
+.black_2{ 
+    position: absolute;
+    top: 363px;
+    left: 30px; 
+}
+.black_3{
+    position: absolute;
+    top: 308px;
+    left: 30px;
+}
+.black_4{
+   position: absolute;
+    top: 253px;
+    left: 197px; 
+}
